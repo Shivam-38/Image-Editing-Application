@@ -1,0 +1,18 @@
+┌──────────────────────────────────────────────────────────────┐
+│  🖼️ ImageEditor        New   Open   Save   Download          │
+├──────────────┬─────────────────────────────────┬─────────────┤
+│              │                                 │             │
+│  TOOLS       │                                 │  SETTINGS   │
+│              │                                 │             │
+│  ✂ Crop      │                                 │  Filter     │
+│  ↻ Rotate    │          IMAGE CANVAS           │  ─────────  │
+│  ↔ Resize    │                                 │  Original   │
+│  ☀ Brightness│                                 │  Grayscale  │
+│  ◐ Contrast  │                                 │  Blur       │
+│  🔲 Blur     │                                 │  Sharpen    │
+│  🖌 Draw     │                                 │  Edge       │
+│              │                                 │             │
+│              │                                 │             │
+├──────────────┴─────────────────────────────────┴─────────────┤
+│  ↶ Undo     ↷ Redo     Reset                    ⬇ Download  │
+└──────────────────────────────────────────────────────────────┘
