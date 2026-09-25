@@ -59,8 +59,9 @@ main{
 }
 
 .workspace{
-    display:grid;
+    display:flex;
     grid-template-columns:1fr;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     gap: 10px;
@@ -131,6 +132,7 @@ max-height: 100%;
 width: auto;
 height: auto;
 display: block;
+touch-action: none;
 }
 
 footer{
